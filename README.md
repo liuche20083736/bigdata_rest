@@ -17,8 +17,9 @@
 通过 rest 访问 impala
 ![Alt text](https://github.com/liuche20083736/bigdata_rest/blob/master/screenshot/impala_sql.png)
 
-sql 为需要在impala中执行的sql
-可以在系统中通过 username 查询用户权限，并查看是否有执行 sql 中某张表的功能。
+sql 为需要在impala中执行的sql。
+
+权限，可以在系统中通过 username 查询用户权限，并查看是否有执行 sql 中某张表的权限。
 
 2.
 通过rest 访问 hbase
